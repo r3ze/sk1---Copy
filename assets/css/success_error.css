@@ -1,0 +1,28 @@
+
+/* Success Message */
+.success-message {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #c3e6cb;
+    border-radius: 4px;
+}
+
+.error-message {
+    background-color: #e7b8b3;
+    color: #e72727;
+    padding: 15px;
+    margin-bottom: 0;
+    border: 1px solid #dca6a6;
+    border-radius: 4px;
+}
+
+.error-message p{
+    margin-bottom: 0;
+}
+
+
+input[type="text"] {
+text-transform: capitalize;
+}
